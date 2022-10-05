@@ -1,2 +1,2 @@
 # chattr
-Chat app framework
+ Chatting App Framework
